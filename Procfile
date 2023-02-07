@@ -1,1 +1,1 @@
-web: gunicorn member.wsgi
+web: gunicorn gettingstarted.wsgi
